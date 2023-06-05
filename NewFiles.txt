@@ -1,0 +1,38 @@
+git init > inciar git
+
+git status > ver o que foi modificado
+
+git add . > para adicionar todos os arquivos que vem no git status
+
+git commit -m "mensagem commit"
+
+git remote add origin > colocar o link do repositório
+
+git push --set-upstream origin master(ou o nome da branch desejada)
+
+
+
+
+
+Se estiver tudo certo e der erro 
+
+git pull origin master --allow-unrelated-histories
+
+
+git branch > ver as branch's a que estiver verde é a qual você esta usando
+
+git branch (nome da branch) > criar uma nova branch
+
+git checkout (nome da branch) > mudar para outra branck
+
+git reset --hard (id da versão) > Voltar para versões anteriores do seu código
+
+como fazer um merge?
+
+primeiro git checkout (nome da branch) para a branch que vai receber o merge
+em seguida git merg (nome da branch onde que está a alteração)
+
+
+
+
+Apagar isso
