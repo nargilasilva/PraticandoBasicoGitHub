@@ -33,3 +33,7 @@ como fazer um merge?
 primeiro git checkout (nome da branch) para a branch que vai receber o merge
 em seguida git merg (nome da branch onde que está a alteração)
 
+
+
+
+Apagar isso
