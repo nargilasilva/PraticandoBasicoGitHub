@@ -14,7 +14,6 @@ git push --set-upstream origin master(ou o nome da branch desejada)
 
 
 
-
 Se estiver tudo certo e der erro 
 
 git pull origin master --allow-unrelated-histories
